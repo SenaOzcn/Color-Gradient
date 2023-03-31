@@ -1,2 +1,2 @@
-# Color-Gradient
+# Color Gradient
 Color Gradient Generator with the help of JavaScript
